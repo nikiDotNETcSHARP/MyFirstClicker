@@ -15,10 +15,10 @@ namespace Assembly_CSharp
 
         private void Start()
         {
-            StartCoroutine(UpdateWoodText());
+            StartCoroutine(UpdateFoodText());
         }
 
-        IEnumerator UpdateWoodText()
+        IEnumerator UpdateFoodText()
         {
             while (true)
             {
