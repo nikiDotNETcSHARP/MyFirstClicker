@@ -14,8 +14,8 @@ namespace Assets.Scripts.States
     {
         public void RaidOnState()
         {
-            VilitsoMinor.Raid(Manpower._manpower);
-            Manpower.Raid(VilitsoMinor._army);
+            VilitsoMinor.Raid();
+            Manpower.Raid();
         }
 
         public static void ScoutingStates()

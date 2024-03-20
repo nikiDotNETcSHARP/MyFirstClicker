@@ -72,14 +72,14 @@ public class MainButtons : MonoBehaviour
 
     public void ResetGame()
     {
-        Money.ResetMoney(0);
-        Multiply.ResetMultiply(0);
-        UpdateTime.ResetAge(15);
-        Wood.ResetWood(0, 1);
-        Farm.ResetFarm(0);
-        Food.ResetFarm(0);
-        Manpower.ResetMan(0);
-        VilitsoMinor.Reset(2000, 1000, 1500, 100);
+        Money.ResetMoney();
+        Multiply.ResetMultiply();
+        UpdateTime.ResetAge();
+        Wood.ResetWood();
+        Farm.ResetFarm();
+        Food.ResetFood();
+        Manpower.ResetMan();
+        VilitsoMinor.Reset();
     }
 
     public void ExitGame()
