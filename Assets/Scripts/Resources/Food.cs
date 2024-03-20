@@ -68,9 +68,9 @@ namespace Assembly_CSharp
             PlayerPrefs.SetInt("_food", _food);
         }
 
-        public static void ResetFarm(int zero)
+        public static void ResetFood()
         {
-            _food *= zero;
+            _food = 0;
             _foodRate = 0;
 
             PlayerPrefs.SetInt("_food", _food);

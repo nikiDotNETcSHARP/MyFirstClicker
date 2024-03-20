@@ -64,10 +64,10 @@ namespace Assembly_CSharp
             PlayerPrefs.SetInt("_cutWood", _cutWood);
         }
 
-        public static void ResetWood(int zero, int one)
+        public static void ResetWood()
         {
-            _cutWood = one;
-            _wood = zero;
+            _cutWood = 1;
+            _wood = 0;
 
             PlayerPrefs.SetInt("wood", _wood);
             PlayerPrefs.SetInt("_cutWood", _cutWood);

@@ -42,9 +42,9 @@ namespace Assembly_CSharp
             PlayerPrefs.SetInt("_peoples", _peoples);
         }
 
-        public static void ResetMultiply(int zero)
+        public static void ResetMultiply()
         {
-            _multiply *= zero;
+            _peoples = 0;
             PlayerPrefs.SetInt("_peoples", _peoples);
         }
 
@@ -60,5 +60,10 @@ namespace Assembly_CSharp
             PlayerPrefs.SetInt("_peoples", _peoples);
         }
 
+        public static void Scouting(int scoutPeople)
+        {
+            _peoples -= scoutPeople;
+            PlayerPrefs.SetInt("_peoples", _peoples);
+        }
     }
 }

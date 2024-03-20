@@ -34,9 +34,9 @@ namespace Assets.Scripts
             }
         }
 
-        public static void ResetFarm(int zero)
+        public static void ResetFarm()
         {
-            _farm *= zero;
+            _farm = 0;
             _newFarm = 1;
 
             PlayerPrefs.SetInt("_farm", _farm);

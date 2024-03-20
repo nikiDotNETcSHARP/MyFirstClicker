@@ -12,7 +12,7 @@ namespace Assembly_CSharp
 {
     public class Manpower : MonoBehaviour
     {
-        public static int _manpower = 0;
+        public static int _manpower = 1500;
 
         [SerializeField] public Text _manText;
 
@@ -28,7 +28,7 @@ namespace Assembly_CSharp
             while (true)
             {
                 _manText.text = "Армия: " + _manpower;
-                yield return new WaitForSeconds(0.3f); // Ожидание одной секунды перед следующим обновлением
+                yield return new WaitForSeconds(0.3f);
             }
         }
 
@@ -38,9 +38,25 @@ namespace Assembly_CSharp
             PlayerPrefs.SetInt("_manpower", _manpower);
         }
 
-        public static void ResetMan(int zero)
+        public static void Raid()
         {
-            _manpower *= zero;
+            if (_manpower < 0)
+            {
+                _manpower = 0;
+
+                PlayerPrefs.SetInt("_manpower", _manpower);
+            }
+        }
+
+        public static void Scouting(int scoutArmy)
+        {
+            _manpower -= scoutArmy;
+            PlayerPrefs.SetInt("_manpower", _manpower);
+        }
+
+        public static void ResetMan()
+        {
+            _manpower = 1500;
             PlayerPrefs.SetInt("_manpower", _manpower);
         }
     }

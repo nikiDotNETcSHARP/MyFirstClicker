@@ -51,9 +51,9 @@ namespace Assembly_CSharp
             PlayerPrefs.SetInt("rate", _rate);
         }
 
-        public static void ResetMoney(int zero)
+        public static void ResetMoney()
         {
-            _money *= zero;
+            _money = 0;
             _rate = 1;
 
             PlayerPrefs.SetInt("money", _money);
@@ -71,6 +71,5 @@ namespace Assembly_CSharp
             _money -= money;
             PlayerPrefs.SetInt("money", _money);
         }
-
     }
 }
