@@ -58,11 +58,11 @@ namespace Assembly_CSharp
             }
         }
 
-        public static void ResetAge(int startValue)
+        public static void ResetAge()
         {
             UpdateTime example = new UpdateTime();
             
-            example._gameAge = startValue;
+            example._gameAge = 15;
             PlayerPrefs.SetFloat("SavedAge", example._gameAge);
         }
     }
