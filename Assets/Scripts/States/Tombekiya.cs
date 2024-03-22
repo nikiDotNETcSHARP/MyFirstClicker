@@ -1,9 +1,4 @@
 ﻿using Assembly_CSharp;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using UnityEngine;
 
 namespace Assets.Scripts.States
@@ -15,13 +10,21 @@ namespace Assets.Scripts.States
         public static int _wood = 100;
         public static int _food = 150;
         public static int _army = 400;
-        public static bool _switcher = false;
+        public static int _switcher = 0;
 
         public static string StateText(string name, int money, int wood, int food, int army)
         {
-            string text = $"Государство: {name}\nЗолото: {money}\nДревесина: {wood}\n" +
-                $"Припасы: {food}\nВойско: {army}\n";
-            return text;
+            if (_switcher == 1 || _money == 0 && _wood == 0 && _food == 0 && _army == 0)
+            {
+                string text = $"Государство: {name}\nЗолото: {money}\nДревесина: {wood}\n" +
+                    $"Припасы: {food}\nВойско: {army}\n";
+                return text;
+            }
+            else
+            {
+                string text2 = $"Государство: {name}\nЗолото: ?\nДревесина: ?\nПрипасы: ?\nВойско: ?\n";
+                return text2;
+            }
         }
 
         public static void Raid()
@@ -85,20 +88,21 @@ namespace Assets.Scripts.States
 
         public static void Scouting()
         {
-            _switcher = true;
+            _switcher = 1;
+            PlayerPrefs.SetInt("_switcherTombekiya", _switcher);
         }
 
         public static void Reset()
         {
-            _money = 2000;
-            _wood = 1000;
-            _food = 1500;
-            _army = 1000;
+            _money = 500;
+            _wood = 100;
+            _food = 150;
+            _army = 400;
 
-            PlayerPrefs.SetInt("_moneyVilitso", _money);
-            PlayerPrefs.SetInt("_woodVilitso", _wood);
-            PlayerPrefs.SetInt("_foodVilitso", _food);
-            PlayerPrefs.SetInt("_armyVilitso", _army);
+            PlayerPrefs.SetInt("_moneyTombekiya", _money);
+            PlayerPrefs.SetInt("_woodTombekiya", _wood);
+            PlayerPrefs.SetInt("_foodTombekiya", _food);
+            PlayerPrefs.SetInt("_armyTombekiya", _army);
         }
     }
 }

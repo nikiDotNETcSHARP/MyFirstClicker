@@ -1,10 +1,8 @@
 ﻿using Assembly_CSharp;
-using System;
 using UnityEngine;
 
 namespace Assets.Scripts.States
 {
-    [Serializable]
     public class VilitsoMinor
     {
         public static string _name = "Малое Вилицо";
@@ -12,13 +10,22 @@ namespace Assets.Scripts.States
         public static int _wood = 1000;
         public static int _food = 1500;
         public static int _army = 1000;
-        public static bool _switcher = false;
+        public static int _switcher = 0;
 
         public static string StateText(string name, int money, int wood, int food, int army)
         {
-            string text = $"Государство: {name}\nЗолото: {money}\nДревесина: {wood}\n" +
-            $"Припасы: {food}\nВойско: {army}\n";
-            return text;
+            if (_switcher == 1 || _money == 0 && _wood == 0 && _food == 0 && _army == 0)
+            {
+                string text = $"Государство: {name}\nЗолото: {money}\nДревесина: {wood}\n" +
+                    $"Припасы: {food}\nВойско: {army}\n";
+                return text;
+            }
+            else
+            {
+                string text2 = $"Государство: {name}\nЗолото: ?\nДревесина: ?\nПрипасы: ?\nВойско: ?\n";
+                return text2;
+            }
+            
         }
 
         public static void Raid()
@@ -82,7 +89,8 @@ namespace Assets.Scripts.States
 
         public static void Scouting()
         {
-            _switcher = true;
+            _switcher = 1;
+            PlayerPrefs.SetInt("_switcherVilitso", _switcher);
         }
 
         public static void Reset()

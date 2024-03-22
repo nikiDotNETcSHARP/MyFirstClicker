@@ -1,14 +1,6 @@
-﻿using Assets.Scripts.States;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
-using Assembly_CSharp;
-using Unity.Burst.Intrinsics;
 
 namespace Assets.Scripts.States
 {
@@ -39,10 +31,10 @@ namespace Assets.Scripts.States
         {
             while (true)
             {
-                _vilitsoMinorText.text = VilitsoMinor.StateText(VilitsoMinor._name, VilitsoMinor._money, 
+                _vilitsoMinorText.text = VilitsoMinor.StateText(VilitsoMinor._name, VilitsoMinor._money,
                     VilitsoMinor._wood, VilitsoMinor._food, VilitsoMinor._army);
 
-                _tombekiyaText.text = Tombekiya.StateText(Tombekiya._name, Tombekiya._money, Tombekiya._wood, 
+                _tombekiyaText.text = Tombekiya.StateText(Tombekiya._name, Tombekiya._money, Tombekiya._wood,
                     Tombekiya._food, Tombekiya._army);
 
                 yield return new WaitForSeconds(0.3f);
