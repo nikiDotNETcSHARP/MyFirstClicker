@@ -22,7 +22,7 @@ public class AgeText : MonoBehaviour
     {
         while (true)
         {
-            _textAge.text = "Возраст: " + UpdateTime.instance._gameAge.ToString();
+            _textAge.text = "Возраст: " + UpdateTime._gameAge.ToString();
             PlayerPrefs.SetString("SavedText", _textAge.text);
             PlayerPrefs.Save();
             yield return new WaitForSeconds(0.3f); // Ожидание одной секунды перед следующим обновлением

@@ -61,18 +61,26 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Text\TextWood.cs" />
     <Compile Include="Assets\Scripts\Text\TextFood.cs" />
+    <Compile Include="Assets\Scripts\Buttons\AggressiveAction.cs" />
     <Compile Include="Assets\Scripts\Resources\Food.cs" />
+    <Compile Include="Assets\Scripts\UI\Portrait.cs" />
+    <Compile Include="Assets\Scripts\Text\StatesText.cs" />
     <Compile Include="Assets\Scripts\UpdateTime.cs" />
     <Compile Include="Assets\Scripts\Resources\Farm.cs" />
     <Compile Include="Assets\Scripts\Resources\Manpower.cs" />
-    <Compile Include="Assets\Scripts\States\StateVilitsoMinor.cs" />
+    <Compile Include="Assets\Scripts\States\Serborot.cs" />
+    <Compile Include="Assets\Scripts\UI\Achievements.cs" />
+    <Compile Include="Assets\Scripts\States\Toliviya.cs" />
     <Compile Include="Assets\Scripts\Resources\Wood.cs" />
     <Compile Include="Assets\Scripts\Text\AgeText.cs" />
+    <Compile Include="Assets\Scripts\SceneManagement.cs" />
+    <Compile Include="Assets\Scripts\UI\Princess.cs" />
     <Compile Include="Assets\Scripts\Resources\Multiply.cs" />
     <Compile Include="Assets\Scripts\Resources\Money.cs" />
-    <Compile Include="Assets\Scripts\States\States.cs" />
-    <Compile Include="Assets\Scripts\MainButtons.cs" />
-    <Compile Include="Assets\Scripts\Portrait.cs" />
+    <Compile Include="Assets\Scripts\States\VilitsoMinor.cs" />
+    <Compile Include="Assets\Scripts\Music.cs" />
+    <Compile Include="Assets\Scripts\States\Tombekiya.cs" />
+    <Compile Include="Assets\Scripts\Buttons\MainButtons.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

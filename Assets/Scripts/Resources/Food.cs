@@ -14,7 +14,7 @@ namespace Assembly_CSharp
         public static Food instance;
 
         [SerializeField] protected float GameSecond;
-        public static int _foodRate = 0;
+        public static int _foodRate = 15;
         public static int _food = 0;
 
         void Awake()
@@ -22,7 +22,7 @@ namespace Assembly_CSharp
             if (instance == null)
             {
                 instance = this;
-                DontDestroyOnLoad(gameObject); // Не уничтожать объект при переходе между сценами
+                DontDestroyOnLoad(gameObject);
 
             }
             else
@@ -71,7 +71,7 @@ namespace Assembly_CSharp
         public static void ResetFood()
         {
             _food = 0;
-            _foodRate = 0;
+            _foodRate = 15;
 
             PlayerPrefs.SetInt("_food", _food);
             PlayerPrefs.SetInt("_foodRate", _foodRate);

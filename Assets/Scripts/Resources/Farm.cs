@@ -12,8 +12,7 @@ namespace Assets.Scripts
 {
     public class Farm : MonoBehaviour
     {
-        public static int _farm = 0;
-        public static int _newFarm = 1;
+        public static int _farm = 3;
 
         [SerializeField] public Text _farmText;
 
@@ -22,7 +21,6 @@ namespace Assets.Scripts
             StartCoroutine(UpdateText());
 
             _farm = PlayerPrefs.GetInt("_farm", _farm);
-            _newFarm = PlayerPrefs.GetInt("_newFarm", 1);
         }
 
         IEnumerator UpdateText()
@@ -36,11 +34,9 @@ namespace Assets.Scripts
 
         public static void ResetFarm()
         {
-            _farm = 0;
-            _newFarm = 1;
+            _farm = 3;
 
             PlayerPrefs.SetInt("_farm", _farm);
-            PlayerPrefs.SetInt("_newFarm", _newFarm);
         }
 
         public static void BuildFarm(int newFarm)

@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Zver\\MyFirstClicker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Zver\\MyFirstClicker\\assets\\scripts\\text\\statestext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\zver\\myfirstclicker\\assets\\scripts\\scenemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\zver\\myfirstclicker\\assets\\scripts\\updatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\updatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\zver\\myfirstclicker\\assets\\scripts\\ui\\portrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\portrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\zver\\myfirstclicker\\assets\\scripts\\text\\agetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\agetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\zver\\myfirstclicker\\assets\\scripts\\buttons\\mainbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\mainbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\zver\\myfirstclicker\\assets\\scripts\\text\\statestext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\statestext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Zver\\MyFirstClicker\\assets\\scripts\\states\\vilitsominor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\states\\vilitsominor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\zver\\myfirstclicker\\assets\\scripts\\states\\serborot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\states\\serborot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\zver\\myfirstclicker\\assets\\scripts\\states\\toliviya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\states\\toliviya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\zver\\myfirstclicker\\assets\\scripts\\states\\tombekiya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\states\\tombekiya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\zver\\myfirstclicker\\assets\\scripts\\buttons\\aggressiveaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\aggressiveaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\zver\\myfirstclicker\\assets\\scripts\\states\\vilitsominor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\states\\vilitsominor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\zver\\myfirstclicker\\assets\\scripts\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tombekiya.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\States\\Tombekiya.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Tombekiya.cs",
-              "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\States\\Tombekiya.cs",
-              "RelativeToolTip": "Assets\\Scripts\\States\\Tombekiya.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "SceneManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\SceneManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneManagement.cs",
+              "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\SceneManagement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T06:28:25.067Z",
+              "WhenOpened": "2024-03-25T15:18:00.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AggressiveAction.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\Buttons\\AggressiveAction.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\AggressiveAction.cs",
-              "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\Buttons\\AggressiveAction.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Buttons\\AggressiveAction.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Title": "AgeText.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\Text\\AgeText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\AgeText.cs",
+              "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\Text\\AgeText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\AgeText.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T06:22:54.884Z",
+              "WhenOpened": "2024-03-25T15:10:29.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Portrait.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\UI\\Portrait.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Portrait.cs",
+              "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\UI\\Portrait.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Portrait.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:09:55.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UpdateTime.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\UpdateTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UpdateTime.cs",
+              "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\UpdateTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UpdateTime.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:04:56.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainButtons.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\Buttons\\MainButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\MainButtons.cs",
+              "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\Buttons\\MainButtons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\MainButtons.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:02:24.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "VilitsoMinor.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\States\\VilitsoMinor.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\States\\VilitsoMinor.cs",
               "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\States\\VilitsoMinor.cs",
               "RelativeToolTip": "Assets\\Scripts\\States\\VilitsoMinor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAFAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T09:26:04.19Z",
+              "WhenOpened": "2024-03-25T13:48:49.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "Tombekiya.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\States\\Tombekiya.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Tombekiya.cs",
+              "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\States\\Tombekiya.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\Tombekiya.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:48:44.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Toliviya.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\States\\Toliviya.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Toliviya.cs",
+              "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\States\\Toliviya.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\Toliviya.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:48:38.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Serborot.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\States\\Serborot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Serborot.cs",
+              "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\States\\Serborot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\Serborot.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:48:29.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StatesText.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\Text\\StatesText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\StatesText.cs",
               "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\Text\\StatesText.cs",
               "RelativeToolTip": "Assets\\Scripts\\Text\\StatesText.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAABUAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAABMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T14:29:12.888Z",
+              "WhenOpened": "2024-03-25T13:47:44.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\Music.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Music.cs",
+              "ToolTip": "C:\\Users\\Zver\\MyFirstClicker\\Assets\\Scripts\\Music.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:45:25.745Z",
               "EditorCaption": ""
             }
           ]

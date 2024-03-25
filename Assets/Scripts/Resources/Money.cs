@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using JetBrains.Annotations;
 
 namespace Assembly_CSharp
 {
@@ -13,8 +9,11 @@ namespace Assembly_CSharp
     {
         public static int _money = 0;
         public static int _rate = 1;
+        public static int _priceOfUpgradeRate = 15;
+        public static int _uppModify = 1;
 
         [SerializeField] public Text _moneyText;
+        [SerializeField] public Text _upgradeRateText;
 
         private void Start()
         {
@@ -22,6 +21,8 @@ namespace Assembly_CSharp
 
             _money = PlayerPrefs.GetInt("money", 0);
             _rate = PlayerPrefs.GetInt("rate", 1);
+            _priceOfUpgradeRate = PlayerPrefs.GetInt("priceOfUpgradeRate", 15);
+            _uppModify = PlayerPrefs.GetInt("uppModify", 1);
         }
 
         IEnumerator UpdateText()
@@ -29,7 +30,8 @@ namespace Assembly_CSharp
             while (true)
             {
                 _moneyText.text = "G: " + _money;
-                yield return new WaitForSeconds(0.3f); // Ожидание одной секунды перед следующим обновлением
+                _upgradeRateText.text = _priceOfUpgradeRate + "G";
+                yield return new WaitForSeconds(0.3f);
             }
         }
 
@@ -41,23 +43,32 @@ namespace Assembly_CSharp
 
         public void UpgradeClick()
         {
-            if (_money >= 15)
+            if (_money >= _priceOfUpgradeRate)
             {
-                _money -= 15;
-                _rate += 1;
+                _money -= _priceOfUpgradeRate;
+                _priceOfUpgradeRate += (_uppModify + _rate);
+
+                _rate++;
+                _uppModify++;
             }
 
             PlayerPrefs.SetInt("money", _money);
             PlayerPrefs.SetInt("rate", _rate);
+            PlayerPrefs.SetInt("priceOfUpgradeRate", _priceOfUpgradeRate);
+            PlayerPrefs.SetInt("uppModify", _uppModify);
         }
 
         public static void ResetMoney()
         {
             _money = 0;
             _rate = 1;
+            _priceOfUpgradeRate = 15;
+            _uppModify = 1;
 
             PlayerPrefs.SetInt("money", _money);
             PlayerPrefs.SetInt("rate", _rate);
+            PlayerPrefs.SetInt("priceOfUpgradeRate", _priceOfUpgradeRate);
+            PlayerPrefs.SetInt("uppModify", _uppModify);
         }
 
         public static void MoneyCutWood(int money)

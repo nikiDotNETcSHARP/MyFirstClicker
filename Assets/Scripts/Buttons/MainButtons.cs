@@ -1,18 +1,11 @@
 using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.SceneManagement;
-using System;
-using UnityEngine.UIElements;
-using System.Collections;
 using Assembly_CSharp;
-using UnityEngine.TestTools;
 using Assets.Scripts;
-using Unity.Burst.Intrinsics;
 using Assets.Scripts.States;
 
 public class MainButtons : MonoBehaviour
 {
-    SceneManagement _manager = new();
+    static SceneManagement _manager = new();
 
     public void PlayGameButton()
     {
@@ -38,7 +31,7 @@ public class MainButtons : MonoBehaviour
     {
         _manager.LoadSceneByName("Game");
     }
-
+    
     public void ClickCutWood()
     {
         if (Money._money >= 100 && Multiply._peoples >= 100)
@@ -46,6 +39,18 @@ public class MainButtons : MonoBehaviour
             Money.MoneyCutWood(100);
             Multiply.MultiplyCutWood(100);
             Wood.CutWood(1);
+        }
+    }
+
+    public void MultiplyPeoples()
+    {
+        if (Food._food >= 10)
+        {
+            Multiply._peoples += Multiply._multiply;
+            Food._food -= Multiply._multiply;
+
+            PlayerPrefs.SetInt("_peoples", Multiply._peoples);
+            PlayerPrefs.SetInt("_food", Food._food);
         }
     }
 
@@ -63,10 +68,11 @@ public class MainButtons : MonoBehaviour
 
     public void ClickHireMan()
     {
-        if (Food._food >= 50)
+        if (Food._food >= 50 && Multiply._peoples >= 50)
         {
             Food.HireMan(50);
             Manpower.HireManpower(50);
+            Multiply.MultiplyArmy(50);
         }
     }
 
@@ -80,6 +86,9 @@ public class MainButtons : MonoBehaviour
         Food.ResetFood();
         Manpower.ResetMan();
         VilitsoMinor.Reset();
+        Tombekiya.Reset();
+        Serborot.Reset();
+        Toliviya.Reset();
     }
 
     public void ExitGame()
@@ -88,4 +97,8 @@ public class MainButtons : MonoBehaviour
         Application.Quit();
     }
 
+    public static void GameOver()
+    {
+        _manager.LoadSceneByName("End");
+    }
 }

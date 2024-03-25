@@ -14,7 +14,7 @@ namespace Assembly_CSharp
 {
     public class Multiply : MonoBehaviour
     {
-        public static int _peoples = 0;
+        public static int _peoples = 3000;
         public static int _multiply = 10;
 
         [SerializeField] public Text _multiplyText;
@@ -23,7 +23,7 @@ namespace Assembly_CSharp
         {
             StartCoroutine(UpdateText());
 
-            _peoples = PlayerPrefs.GetInt("_peoples", 0);
+            _peoples = PlayerPrefs.GetInt("_peoples", 3000);
             _multiply = PlayerPrefs.GetInt("_multiply", 10);
         }
 
@@ -32,19 +32,13 @@ namespace Assembly_CSharp
             while (true)
             {
                 _multiplyText.text = "Жители: " + _peoples;
-                yield return new WaitForSeconds(0.3f); // Ожидание одной секунды перед следующим обновлением
+                yield return new WaitForSeconds(0.3f);
             }
-        }
-
-        public void MultiplyPeoples()
-        {
-            _peoples += _multiply;
-            PlayerPrefs.SetInt("_peoples", _peoples);
         }
 
         public static void ResetMultiply()
         {
-            _peoples = 0;
+            _peoples = 3000;
             PlayerPrefs.SetInt("_peoples", _peoples);
         }
 
@@ -55,6 +49,12 @@ namespace Assembly_CSharp
         }
 
         public static void MultiplyBuildFarm(int people)
+        {
+            _peoples -= people;
+            PlayerPrefs.SetInt("_peoples", _peoples);
+        }
+
+        public static void MultiplyArmy(int people)
         {
             _peoples -= people;
             PlayerPrefs.SetInt("_peoples", _peoples);

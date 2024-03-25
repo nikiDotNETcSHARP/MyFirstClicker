@@ -16,7 +16,7 @@ namespace Assembly_CSharp
         public static UpdateTime instance;
 
         [SerializeField] public float _gameSecond;
-        [SerializeField] public float _gameAge = 15;
+        [SerializeField] public static float _gameAge = 15;
 
         private void Start()
         {
@@ -54,16 +54,21 @@ namespace Assembly_CSharp
                     PlayerPrefs.SetFloat("SavedAge", _gameAge);
                     PlayerPrefs.SetFloat("_gameSecond", _gameSecond);
                 }
-                yield return new WaitForSeconds(1.5f); // Ожидание одной секунды перед следующим обновлением
+
+                if (_gameAge >= 16)
+                {
+                    MainButtons.GameOver();
+                    PlayerPrefs.SetFloat("SavedAge", _gameAge);
+                }
+
+                yield return new WaitForSeconds(1.5f);
             }
         }
 
         public static void ResetAge()
         {
-            UpdateTime example = new UpdateTime();
-            
-            example._gameAge = 15;
-            PlayerPrefs.SetFloat("SavedAge", example._gameAge);
+            _gameAge = 15;
+            PlayerPrefs.SetFloat("SavedAge", _gameAge);
         }
     }
 }

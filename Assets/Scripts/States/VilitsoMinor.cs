@@ -9,20 +9,20 @@ namespace Assets.Scripts.States
         public static int _money = 2000;
         public static int _wood = 1000;
         public static int _food = 1500;
-        public static int _army = 1000;
+        public static int _army = 1500;
         public static int _switcher = 0;
 
-        public static string StateText(string name, int money, int wood, int food, int army)
+        public static string StateText(int money, int wood, int food, int army)
         {
             if (_switcher == 1 || _money == 0 && _wood == 0 && _food == 0 && _army == 0)
             {
-                string text = $"Государство: {name}\nЗолото: {money}\nДревесина: {wood}\n" +
+                string text = $"Золото: {money}\nДревесина: {wood}\n" +
                     $"Припасы: {food}\nВойско: {army}\n";
                 return text;
             }
             else
             {
-                string text2 = $"Государство: {name}\nЗолото: ?\nДревесина: ?\nПрипасы: ?\nВойско: ?\n";
+                string text2 = $"Золото: ?\nДревесина: ?\nПрипасы: ?\nВойско: ?\n";
                 return text2;
             }
             
@@ -98,7 +98,7 @@ namespace Assets.Scripts.States
             _money = 2000;
             _wood = 1000;
             _food = 1500;
-            _army = 1000;
+            _army = 1500;
 
             PlayerPrefs.SetInt("_moneyVilitso", _money);
             PlayerPrefs.SetInt("_woodVilitso", _wood);

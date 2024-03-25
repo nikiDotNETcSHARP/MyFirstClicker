@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Unity.Burst.Intrinsics;
+﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -12,7 +6,7 @@ namespace Assembly_CSharp
 {
     public class Manpower : MonoBehaviour
     {
-        public static int _manpower = 1500;
+        public static int _manpower = 3000;
 
         [SerializeField] public Text _manText;
 
@@ -56,7 +50,7 @@ namespace Assembly_CSharp
 
         public static void ResetMan()
         {
-            _manpower = 1500;
+            _manpower = 3000;
             PlayerPrefs.SetInt("_manpower", _manpower);
         }
     }
