@@ -60,12 +60,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Text\TextWood.cs" />
+    <Compile Include="Assets\Scripts\UpdateAge.cs" />
     <Compile Include="Assets\Scripts\Text\TextFood.cs" />
     <Compile Include="Assets\Scripts\Buttons\AggressiveAction.cs" />
     <Compile Include="Assets\Scripts\Resources\Food.cs" />
     <Compile Include="Assets\Scripts\UI\Portrait.cs" />
     <Compile Include="Assets\Scripts\Text\StatesText.cs" />
-    <Compile Include="Assets\Scripts\UpdateTime.cs" />
     <Compile Include="Assets\Scripts\Resources\Farm.cs" />
     <Compile Include="Assets\Scripts\Resources\Manpower.cs" />
     <Compile Include="Assets\Scripts\States\Serborot.cs" />
@@ -75,12 +75,14 @@
     <Compile Include="Assets\Scripts\Text\AgeText.cs" />
     <Compile Include="Assets\Scripts\SceneManagement.cs" />
     <Compile Include="Assets\Scripts\UI\Princess.cs" />
+    <Compile Include="Assets\Scripts\GameOver.cs" />
     <Compile Include="Assets\Scripts\Resources\Multiply.cs" />
     <Compile Include="Assets\Scripts\Resources\Money.cs" />
     <Compile Include="Assets\Scripts\States\VilitsoMinor.cs" />
     <Compile Include="Assets\Scripts\Music.cs" />
     <Compile Include="Assets\Scripts\States\Tombekiya.cs" />
     <Compile Include="Assets\Scripts\Buttons\MainButtons.cs" />
+    <Compile Include="Assets\Scripts\States\AggressiveForeignActions\AttackOnHero.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -337,15 +339,6 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Android.Types">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Android.Gradle">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Gradle.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Android.GradleProject">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.GradleProject.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.12f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>

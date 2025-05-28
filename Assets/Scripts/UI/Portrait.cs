@@ -14,34 +14,47 @@ namespace Assets.Scripts
 
         public Image imageComponent;
 
+        private void Awake()
+        {
+            // Сохраняем объект при переходе между сценами
+            DontDestroyOnLoad(gameObject);
+        }
+
         private void Start()
         {
-            StartCoroutine(UpdatePortrait());
+            UpdateAge._gameAge = PlayerPrefs.GetFloat("SavedAge", UpdateAge._gameAge);
 
-            UpdateTime._gameAge = PlayerPrefs.GetFloat("SavedAge", UpdateTime._gameAge);
+            UpdatePortraitImage();
+
+            StartCoroutine(UpdatePortrait());
         }
 
         IEnumerator UpdatePortrait()
         {
             while (true)
             {
-                switch (UpdateTime._gameAge)
-                {
-                    case 15:
-                        imageComponent.sprite = sprite1;
-                        break;
-                    case 17:
-                        imageComponent.sprite = sprite2;
-                        break;
-                    case 19:
-                        imageComponent.sprite = sprite3;
-                        break;
-                    case 21:
-                        imageComponent.sprite = sprite4;
-                        break;
-                }
-
+                UpdatePortraitImage();
                 yield return new WaitForSeconds(1.5f);
+            }
+        }
+
+        private void UpdatePortraitImage()
+        {
+            if (UpdateAge._gameAge >= 15 && UpdateAge._gameAge < 17)
+            {
+                imageComponent.sprite = sprite1;
+            }
+            else if (UpdateAge._gameAge >= 17 && UpdateAge._gameAge < 35)
+            {
+                imageComponent.sprite = sprite2;
+            }
+            else if (UpdateAge._gameAge >= 35 && UpdateAge._gameAge < 50)
+            {
+                imageComponent.sprite = sprite3;
+            }
+            else if (UpdateAge._gameAge >= 50)
+            {
+                imageComponent.sprite = sprite4;
             }
         }
     }

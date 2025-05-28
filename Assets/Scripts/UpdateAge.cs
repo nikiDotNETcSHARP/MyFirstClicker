@@ -1,26 +1,21 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UnityEditor.PackageManager.UI;
+﻿using System.Collections;
+using Assets.Scripts;
 using UnityEngine;
-using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 
 namespace Assembly_CSharp
 {
-    public class UpdateTime : MonoBehaviour
+    public class UpdateAge : MonoBehaviour
     {
-        public static UpdateTime instance;
+        public static UpdateAge instance;
 
         [SerializeField] public float _gameSecond;
         [SerializeField] public static float _gameAge = 15;
 
+        private MainButtons mainButtons = new MainButtons();
+
         private void Start()
         {
-            StartCoroutine(UpdateAge());
+            StartCoroutine(UpdateAgeHero());
 
             _gameSecond = PlayerPrefs.GetFloat("_gameSecond", _gameSecond);
             _gameAge = PlayerPrefs.GetFloat("SavedAge", _gameAge);
@@ -40,13 +35,13 @@ namespace Assembly_CSharp
             }
         }
 
-        IEnumerator UpdateAge()
+        IEnumerator UpdateAgeHero()
         {
             while (true)
             {
                 _gameSecond = _gameSecond + Time.deltaTime;
 
-                if (_gameSecond >= 0.6f)
+                if (_gameSecond >= 0.1f)
                 {
                     _gameAge++;
                     _gameSecond = 0;
@@ -55,10 +50,10 @@ namespace Assembly_CSharp
                     PlayerPrefs.SetFloat("_gameSecond", _gameSecond);
                 }
 
-                if (_gameAge >= 16)
+                if (_gameAge >= 65)
                 {
-                    MainButtons.GameOver();
-                    PlayerPrefs.SetFloat("SavedAge", _gameAge);
+                    GameOver.OldAgeGameOver();
+                    mainButtons.ResetGame();
                 }
 
                 yield return new WaitForSeconds(1.5f);

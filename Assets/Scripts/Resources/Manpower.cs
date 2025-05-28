@@ -37,7 +37,7 @@ namespace Assembly_CSharp
             if (_manpower < 0)
             {
                 _manpower = 0;
-
+                
                 PlayerPrefs.SetInt("_manpower", _manpower);
             }
         }

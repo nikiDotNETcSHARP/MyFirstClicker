@@ -45,7 +45,7 @@ namespace Assembly_CSharp
             {
                 GameSecond = GameSecond + Time.deltaTime;
 
-                if (GameSecond >= 0.3f)
+                if (GameSecond >= 0.05f)
                 {
                     _food += _foodRate;
                     GameSecond = 0;

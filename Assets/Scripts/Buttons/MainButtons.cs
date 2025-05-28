@@ -80,7 +80,7 @@ public class MainButtons : MonoBehaviour
     {
         Money.ResetMoney();
         Multiply.ResetMultiply();
-        UpdateTime.ResetAge();
+        UpdateAge.ResetAge();
         Wood.ResetWood();
         Farm.ResetFarm();
         Food.ResetFood();
@@ -93,12 +93,6 @@ public class MainButtons : MonoBehaviour
 
     public void ExitGame()
     {
-        Debug.Log("Игра закрылась.");
-        Application.Quit();
-    }
-
-    public static void GameOver()
-    {
-        _manager.LoadSceneByName("End");
+        _manager.LoadSceneByName("MainMenu");
     }
 }
