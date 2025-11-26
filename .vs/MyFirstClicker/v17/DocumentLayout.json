@@ -1,90 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\",
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\buttons\\mainbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\mainbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\GameOver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameOver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\buttons\\aggressiveaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\aggressiveaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Buttons\\MainButtons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Buttons\\MainButtons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|c:\\users\\niko\\source\\repos\\myfirstclicker\\assets\\scripts\\updateage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\updateage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\StatesText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Text\\StatesText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UpdateAge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UpdateAge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\resources\\manpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resources\\manpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Resources\\Farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\states\\aggressiveforeignactions\\attackonhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\states\\aggressiveforeignactions\\attackonhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Resources\\Food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\resources\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resources\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Wood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Resources\\Wood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\resources\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resources\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Manpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Resources\\Manpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\resources\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resources\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\AgeText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Text\\AgeText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\resources\\wood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resources\\wood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Buttons\\AggressiveAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Buttons\\AggressiveAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\ui\\portrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\portrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\AggressiveForeignActions\\AttackOnHero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\States\\AggressiveForeignActions\\AttackOnHero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\ui\\achievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\achievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Resources\\Money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\ui\\princess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\princess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Achievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\Achievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Serborot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\States\\Serborot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Princess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\Princess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\StatesText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Text\\StatesText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Portrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\Portrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\text\\textwood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\textwood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\TextWood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Text\\TextWood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\assets\\scripts\\text\\agetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\agetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Serborot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\States\\Serborot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\VilitsoMinor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\States\\VilitsoMinor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\VilitsoMinor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\States\\VilitsoMinor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Tombekiya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\States\\Tombekiya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Tombekiya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\States\\Tombekiya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Toliviya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6D61B-8791-EFA8-CCAE-E03C01F7F90E}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\States\\Toliviya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Toliviya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\States\\Toliviya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,37 +98,35 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "GameOver.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\GameOver.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\GameOver.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameOver.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\GameOver.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\GameOver.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameOver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T14:33:59.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T14:33:59.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainButtons.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Buttons\\MainButtons.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Buttons\\MainButtons.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\MainButtons.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Buttons\\MainButtons.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Buttons\\MainButtons.cs",
               "RelativeToolTip": "Assets\\Scripts\\Buttons\\MainButtons.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAywF8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T15:02:24.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T15:02:24.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "StatesText.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\StatesText.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\StatesText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\StatesText.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\StatesText.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\StatesText.cs",
               "RelativeToolTip": "Assets\\Scripts\\Text\\StatesText.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAqwBMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,24 +134,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UpdateAge.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UpdateAge.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UpdateAge.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UpdateAge.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UpdateAge.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UpdateAge.cs",
               "RelativeToolTip": "Assets\\Scripts\\UpdateAge.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T15:04:56.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T15:04:56.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Farm.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Farm.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Farm.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Resources\\Farm.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Farm.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Farm.cs",
               "RelativeToolTip": "Assets\\Scripts\\Resources\\Farm.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -161,11 +158,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Food.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Food.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Food.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Resources\\Food.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Food.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Food.cs",
               "RelativeToolTip": "Assets\\Scripts\\Resources\\Food.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwDwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,11 +170,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Wood.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Wood.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Wood.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Resources\\Wood.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Wood.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Wood.cs",
               "RelativeToolTip": "Assets\\Scripts\\Resources\\Wood.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwD4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,11 +182,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Manpower.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Manpower.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Manpower.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Resources\\Manpower.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Manpower.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Manpower.cs",
               "RelativeToolTip": "Assets\\Scripts\\Resources\\Manpower.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -197,11 +194,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
               "Title": "AgeText.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\AgeText.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\AgeText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\AgeText.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\AgeText.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\AgeText.cs",
               "RelativeToolTip": "Assets\\Scripts\\Text\\AgeText.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,24 +206,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "AggressiveAction.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Buttons\\AggressiveAction.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Buttons\\AggressiveAction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\AggressiveAction.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Buttons\\AggressiveAction.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Buttons\\AggressiveAction.cs",
               "RelativeToolTip": "Assets\\Scripts\\Buttons\\AggressiveAction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T14:28:49.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T14:28:49.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "AttackOnHero.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\AggressiveForeignActions\\AttackOnHero.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\AggressiveForeignActions\\AttackOnHero.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\States\\AggressiveForeignActions\\AttackOnHero.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\AggressiveForeignActions\\AttackOnHero.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\AggressiveForeignActions\\AttackOnHero.cs",
               "RelativeToolTip": "Assets\\Scripts\\States\\AggressiveForeignActions\\AttackOnHero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,22 +232,21 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Music.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Music.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Music.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Music.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Music.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Music.cs",
               "RelativeToolTip": "Assets\\Scripts\\Music.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T11:45:25.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T11:45:25.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Money.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Money.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Money.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Resources\\Money.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Money.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Resources\\Money.cs",
               "RelativeToolTip": "Assets\\Scripts\\Resources\\Money.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAiwDwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -259,11 +254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Achievements.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Achievements.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Achievements.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Achievements.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Achievements.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Achievements.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\Achievements.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAiwCwAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,11 +266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Princess.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Princess.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Princess.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Princess.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Princess.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Princess.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\Princess.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAFgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,11 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Portrait.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Portrait.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Portrait.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Portrait.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Portrait.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\UI\\Portrait.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\Portrait.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -297,9 +292,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "TextWood.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\TextWood.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\TextWood.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\TextWood.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\TextWood.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\Text\\TextWood.cs",
               "RelativeToolTip": "Assets\\Scripts\\Text\\TextWood.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,11 +302,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Serborot.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Serborot.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Serborot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Serborot.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Serborot.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Serborot.cs",
               "RelativeToolTip": "Assets\\Scripts\\States\\Serborot.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -321,10 +316,10 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "VilitsoMinor.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\VilitsoMinor.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\VilitsoMinor.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\States\\VilitsoMinor.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\VilitsoMinor.cs*",
-              "RelativeToolTip": "Assets\\Scripts\\States\\VilitsoMinor.cs*",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\VilitsoMinor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\VilitsoMinor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T13:48:49.334Z"
@@ -333,10 +328,10 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Tombekiya.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Tombekiya.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Tombekiya.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Tombekiya.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Tombekiya.cs*",
-              "RelativeToolTip": "Assets\\Scripts\\States\\Tombekiya.cs*",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Tombekiya.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\Tombekiya.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T13:48:44.228Z"
@@ -345,13 +340,17 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Toliviya.cs",
-              "DocumentMoniker": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Toliviya.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Toliviya.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\States\\Toliviya.cs",
-              "ToolTip": "C:\\Users\\Niko\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Toliviya.cs*",
-              "RelativeToolTip": "Assets\\Scripts\\States\\Toliviya.cs*",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker\\Assets\\Scripts\\States\\Toliviya.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\Toliviya.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T13:48:38.316Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

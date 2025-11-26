@@ -237,9 +237,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: cc630000
+      m_SelectedIDs: ac720000
       m_LastClickedID: 0
-      m_ExpandedIDs: 6074ffff5a75ffff7e76ffffca76ffff5478ffffa478fffff678ffff4679ffff9679ffffe479ffffc07dffff727effff4680ffffb0a0ffff1ea2ffffb0a2ffff40a4ffffeaacffffceadffff5caeffff3cafffff6ab0ffff00b1ffff64b1fffff2b1ffff40b2ffffb4b2ffff26b3ffff76b3ffff1cb4ffff28b7ffffbecbffffaaccffff40ceffff2ed2ffffbad2ffff7ed3ffff2ad4ffffead4ffff74d5ffff1cd6ffff8cd6fffff0d8ffff7ad9ffff34daffffbcdaffff0cdbffff10dcffff42f7ffff90f7ffff7ef9ffffcef9ffff1afbfffff4ffffff1a9f00007ca00000a8a800001aa90000fea9000040aa0000a2ac000070b40000b0b5000012d60000e2d7000004d80000
+      m_ExpandedIDs: 1a8affff7290ffff34a2ffff5cbeffff80bfffff7cc1ffff60c3ffffacc3ffff00c4ffff00d1ffff74d2ffff28d3ffff96d4ffffbed5fffff8dbffff4adcffff44ddffff90ddffffe0ddffff2cdeffff82deffffd2deffff7edfffffcedfffffeae1ffff00e3ffff50e3ffffa0e3ffff90e6fffff4ffffff5cbc00000ce80000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -658,9 +658,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.5983228, y: 0.41189355, z: 59.13989}
+    m_Target: {x: 2.3347619, y: 3.1250296, z: -0.18720728}
     speed: 2
-    m_Value: {x: -0.5983228, y: 0.41189355, z: 59.13989}
+    m_Value: {x: 2.3347619, y: 3.1250296, z: -0.18720728}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -710,9 +710,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 7.802607
+    m_Target: 4.2484913
     speed: 2
-    m_Value: 7.802607
+    m_Value: 4.2484913
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -756,8 +756,8 @@ MonoBehaviour:
     y: 0
     width: 466
     height: 641
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -787,7 +787,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 16573
+  controlID: 19642
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -798,7 +798,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ProjectBrowser
+  m_Name: ConsoleWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -807,14 +807,14 @@ MonoBehaviour:
     y: 0
     width: 1127
     height: 306
-  m_MinSize: {x: 231, y: 271}
-  m_MaxSize: {x: 10001, y: 10021}
-  m_ActualView: {fileID: 12}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 12}
   - {fileID: 13}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -870,14 +870,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: 65
-  m_LastProjectPath: C:\Users\Niko\source\repos\MyFirstClicker
+  m_LastProjectPath: "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c4630000
-    m_LastClickedID: 25540
-    m_ExpandedIDs: 000000008863000000ca9a3b
+    scrollPos: {x: 0, y: 7}
+    m_SelectedIDs: 6c280000
+    m_LastClickedID: 10348
+    m_ExpandedIDs: 00000000e026000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -905,7 +905,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008863000000ca9a3b
+    m_ExpandedIDs: 00000000e026000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -930,10 +930,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: cc630000
-    m_LastClickedInstanceID: 25548
-    m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300001a6b00006e6e000024610000266100007c6100005c6100005e610000cc6400001e620000d86c0000ee610000747e0000ba630000366200004e6300005a660000acb3000076b1000056630000067800003e64000090a2000096a2000018630000a66f00000e67000000000000841a01001c660000daf10000e0f10000e6f100006269000046630000
+    m_SelectedInstanceIDs: ac720000
+    m_LastClickedInstanceID: 29356
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c62300001a6b00006e6e000024610000266100007c6100005c6100005e610000cc6400001e620000d86c0000ee610000747e0000ba630000366200004e6300005a660000acb3000076b1000056630000067800003e64000090a2000096a2000018630000a66f00000e67000000000000841a01001c660000daf10000e0f10000e6f10000626900004663000016e90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1076,14 +1076,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Niko\source\repos\MyFirstClicker
+  m_LastProjectPath: "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\MyFirstClicker"
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 88630000
-    m_LastClickedID: 25480
-    m_ExpandedIDs: 000000008863000000ca9a3b
+    m_SelectedIDs: e0260000
+    m_LastClickedID: 9952
+    m_ExpandedIDs: 00000000e026000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1111,7 +1111,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008863000000ca9a3b
+    m_ExpandedIDs: 00000000e026000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1136,8 +1136,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: cc630000
-    m_LastClickedInstanceID: 25548
+    m_SelectedInstanceIDs: ac720000
+    m_LastClickedInstanceID: 29356
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
@@ -1186,8 +1186,8 @@ MonoBehaviour:
     y: 0
     width: 458
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}

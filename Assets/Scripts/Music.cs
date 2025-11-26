@@ -6,7 +6,8 @@ public class Music : MonoBehaviour
 {
     public AudioSource _sourceGameplayMusic;
     public AudioClip _clipGameplay;
-    public AudioClip _clipGameOver;
+    public AudioClip _clipMilitaryGameOver;
+    public AudioClip _clipOldAgeGameOver;
 
     void Awake()
     {
@@ -33,10 +34,15 @@ public class Music : MonoBehaviour
             if (currentSceneName.Equals("MilitaryGameOver"))
             {
                 _sourceGameplayMusic.Stop();
-                _sourceGameplayMusic.PlayOneShot(_clipGameOver);
+                _sourceGameplayMusic.PlayOneShot(_clipMilitaryGameOver);
                 break;
             }
-
+            else if (currentSceneName.Equals("OldAgeEnd"))
+            {
+                _sourceGameplayMusic.Stop();
+                _sourceGameplayMusic.PlayOneShot(_clipOldAgeGameOver);
+                break;
+            }
             yield return new WaitForSeconds(1f);
         }
     }

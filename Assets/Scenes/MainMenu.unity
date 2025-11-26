@@ -2345,7 +2345,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _sourceGameplayMusic: {fileID: 0}
   _clipGameplay: {fileID: 8300000, guid: 59779d52426eaf54d9d5e8bff8b9d1dc, type: 3}
-  _clipGameOver: {fileID: 8300000, guid: a515878dcaf494144bf7a32eaf715c4a, type: 3}
+  _clipMilitaryGameOver: {fileID: 8300000, guid: a515878dcaf494144bf7a32eaf715c4a, type: 3}
+  _clipOldAgeGameOver: {fileID: 8300000, guid: 6cfa58dfcc417634cbaecf33a4c1a47c, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
