@@ -14,7 +14,7 @@ namespace Assembly_CSharp
 {
     public class Multiply : MonoBehaviour
     {
-        public static int _peoples = 3000;
+        public static int _peoples = 1000;
         public static int _multiply = 10;
 
         [SerializeField] public Text _multiplyText;
@@ -23,7 +23,7 @@ namespace Assembly_CSharp
         {
             StartCoroutine(UpdateText());
 
-            _peoples = PlayerPrefs.GetInt("_peoples", 3000);
+            _peoples = PlayerPrefs.GetInt("_peoples", 1000);
             _multiply = PlayerPrefs.GetInt("_multiply", 10);
         }
 
@@ -38,7 +38,7 @@ namespace Assembly_CSharp
 
         public static void ResetMultiply()
         {
-            _peoples = 3000;
+            _peoples = 1000;
             PlayerPrefs.SetInt("_peoples", _peoples);
         }
 

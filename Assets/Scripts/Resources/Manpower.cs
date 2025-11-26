@@ -6,7 +6,7 @@ namespace Assembly_CSharp
 {
     public class Manpower : MonoBehaviour
     {
-        public static int _manpower = 3000;
+        public static int _manpower = 500;
 
         [SerializeField] public Text _manText;
 
@@ -50,7 +50,7 @@ namespace Assembly_CSharp
 
         public static void ResetMan()
         {
-            _manpower = 3000;
+            _manpower = 500;
             PlayerPrefs.SetInt("_manpower", _manpower);
         }
     }
